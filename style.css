@@ -1,0 +1,16 @@
+body{
+    background-color: #FAE392;
+}
+
+h1{
+    color: #1A5D1A;
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
+div{
+    text-align: center;
+}
+
+.click{
+    width: 200px;
+}
