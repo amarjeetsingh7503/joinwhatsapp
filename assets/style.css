@@ -3,3 +3,18 @@ div{
     font-family: 'Kaushan Script', cursive;
     font-size: 25px;
 }
+
+div>img{
+    width: 900px;
+}
+
+@media(max-width: 600px){
+    div{
+        text-align: center;
+        font-size: 0.5rem;
+    }
+
+    div>img{
+      width: 200px; 
+    }
+}
