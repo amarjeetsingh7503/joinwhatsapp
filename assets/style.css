@@ -11,7 +11,7 @@ div>img{
 @media(max-width: 600px){
     div{
         text-align: center;
-        font-size: 0.5rem;
+        font-size: 15px;
     }
 
     div>img{
